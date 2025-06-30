@@ -30,8 +30,5 @@ A responsive full-stack MERN application for table reservations, event hosting r
 cd restaurant-app
 npm install
 npm start
-### Backend
-cd restaurant-app/backend
-npm install
-nodemon index.js
+
 
